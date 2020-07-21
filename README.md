@@ -7,7 +7,7 @@ Files included:
 * create_training_data.py
    * Creates training images from a training video
    * (Note that some training data should be reserved for validation. Python code not provided here for that.)
-* Create_NN.py
+* create_NN.py
    * Creates a CNN and trains on training data
    * Training data is given as the (rescaled and regularized) dense (Farneback) optical flow between adjacent frames.
 * model.h5
